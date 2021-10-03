@@ -1,7 +1,11 @@
 public class grilo {
     int pulo;
 
-    public void pular() {
+    public grilo() {
 
+    }
+
+    public void pular(int z) {
+        this.pulo = z;
     }
 }
