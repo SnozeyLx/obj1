@@ -7,5 +7,6 @@ public class main {
         g.saltar("saltou");
         System.out.println(g.saltar("salou"));
     }
+    
 
 }
