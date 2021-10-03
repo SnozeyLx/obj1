@@ -3,8 +3,9 @@ public class main {
 
     grilo g = new grilo();
 
-    g.pular();
+    private void run() {
+        g.pular(5);
 
-
+    }
 
 }
